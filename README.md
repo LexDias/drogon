@@ -2,7 +2,7 @@
 Papercraft model of Game of Thrones most famous dragon
 
 ![Test Build progress](/images/drogon-testBuild-07.jpg)
-![Test Build progress](/images/drogon-testBuild-08.jpg)
+![Test Build progress](/images/drogon-testBuild-06.jpg)
 
 ## Tasks
 - [x] Search reference images
