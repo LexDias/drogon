@@ -1,4 +1,7 @@
 refs
 textures
+instructions/*.jpg
+instructions/*.svg
 *.ffs_db
+*.ffs_lock
 *.pdf
