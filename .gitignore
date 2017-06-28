@@ -1,7 +1,7 @@
 refs
 textures
-instructions/*.jpg
-instructions/*.svg
+instructions
+drogon.wiki
 *.ffs_db
 *.ffs_lock
 *.pdf
