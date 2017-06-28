@@ -3,7 +3,7 @@ Welcome to the Drogon Instructions! Here, you'll find out how to assemble Drogon
 And you can collaborate, of course!
 
 # Tools and material you'll need
-1. Craft Knife (X-Acto kife)
+1. Craft Knife (X-Acto knife)
 1. Scissors
 1. White glue
 1. 12” Ruler
