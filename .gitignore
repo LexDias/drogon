@@ -2,6 +2,8 @@ refs
 textures
 instructions
 drogon.wiki
+_temp
 *.ffs_db
 *.ffs_lock
-*.pdf
+*.bat
+*.txt

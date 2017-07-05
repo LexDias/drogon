@@ -10,6 +10,6 @@ Papercraft model of Game of Thrones most famous dragon
 - [x] Unfold model - [Pepakura Designer](http://www.tamasoft.co.jp/pepakura-en/)
 - [x] White model build
 - [x] Color model - [Inkscape](https://inkscape.org/en/)
-- [ ] Color model build
-- [ ] Instructions
+- [.] Color model build
+- [.] Instructions
 - [ ] Publish at [PaperInside](http://www.paperinside.com)

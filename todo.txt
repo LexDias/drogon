@@ -1,4 +1,0 @@
-tail
-
-scales
-	Diminuir peças 11 e 12 para caber sob os chifres
