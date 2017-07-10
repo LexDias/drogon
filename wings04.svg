@@ -423,12 +423,12 @@
       <image
          sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin01.jpg"
          xlink:href="textures\skin01.jpg"
-         transform="matrix(0,-1.8897569,1.8897569,0,0,340.15624)"
-         width="180"
-         height="180"
-         preserveAspectRatio="none"
+         style="display:inline"
          id="image5956"
-         style="display:inline" />
+         preserveAspectRatio="none"
+         height="180"
+         width="180"
+         transform="matrix(0,-1.8897569,1.8897569,0,0,340.15624)" />
     </pattern>
     <linearGradient
        inkscape:collect="always"
@@ -744,10 +744,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="455.09238"
-     inkscape:cy="615.86016"
-     inkscape:current-layer="layer2"
+     inkscape:zoom="1.28"
+     inkscape:cx="387.32016"
+     inkscape:cy="520.36846"
+     inkscape:current-layer="layer1"
      showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
@@ -760,108 +760,107 @@
      id="layer3"
      inkscape:label="painting"
      style="display:inline"
-     transform="translate(0,-527.00871)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-527.00871)">
     <image
        sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
        xlink:href="textures\tongue01.jpg"
-       clip-path="url(#clipPath4709)"
-       id="image4629"
-       preserveAspectRatio="none"
-       height="67.605637"
-       width="119.8125"
+       style="display:inline;opacity:1"
        transform="matrix(-1.0768875,0,0,-0.74247072,105.84186,617.10224)"
-       style="display:inline;opacity:1" />
-    <image
-       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
-       xlink:href="textures\tongue01.jpg"
-       style="display:inline;opacity:1"
-       transform="matrix(-1.0768875,0,0,0.74247072,105.84186,616.96599)"
        width="119.8125"
        height="67.605637"
        preserveAspectRatio="none"
-       id="image4633"
-       clip-path="url(#clipPath4713)" />
-    <image
-       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
-       xlink:href="textures\tongue01.jpg"
-       clip-path="url(#clipPath4717)"
-       id="image4635"
-       preserveAspectRatio="none"
-       height="67.605637"
-       width="119.8125"
-       transform="matrix(1.0768875,0,0,0.74247072,105.75713,616.96599)"
-       style="display:inline;opacity:1" />
-    <image
-       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
-       xlink:href="textures\tongue01.jpg"
-       clip-path="url(#clipPath4597)"
-       id="image4865"
-       preserveAspectRatio="none"
-       height="67.605637"
-       width="119.8125"
-       transform="matrix(1.0768875,0,0,-0.72399662,76.41517,710.48643)"
-       style="display:inline;opacity:1" />
-    <image
-       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
-       xlink:href="textures\tongue01.jpg"
-       style="display:inline;opacity:1"
-       transform="matrix(-1.0768875,0,0,-0.72399662,76.4999,710.48643)"
-       width="119.8125"
-       height="67.605637"
-       preserveAspectRatio="none"
-       id="image4867"
-       clip-path="url(#clipPath4585)" />
-    <image
-       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
-       xlink:href="textures\tongue01.jpg"
-       style="display:inline;opacity:1"
-       transform="matrix(1.0768875,0,0,0.72399662,76.41517,710.35356)"
-       width="119.8125"
-       height="67.605637"
-       preserveAspectRatio="none"
-       id="image4869"
-       clip-path="url(#clipPath4593)" />
-    <image
-       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
-       xlink:href="textures\tongue01.jpg"
-       clip-path="url(#clipPath4589)"
-       id="image4871"
-       preserveAspectRatio="none"
-       height="67.605637"
-       width="119.8125"
-       transform="matrix(-1.0768875,0,0,0.72399662,76.4999,710.35356)"
-       style="display:inline;opacity:1" />
-    <image
-       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
-       xlink:href="textures\tongue01.jpg"
-       style="display:inline;opacity:1"
-       transform="matrix(1.0768875,0,0,-0.74247072,103.35834,745.23013)"
-       width="119.8125"
-       height="67.605637"
-       preserveAspectRatio="none"
-       id="image4877"
+       id="image4629"
        clip-path="url(#clipPath4709)" />
     <image
        sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
        xlink:href="textures\tongue01.jpg"
        clip-path="url(#clipPath4713)"
-       id="image4879"
+       id="image4633"
        preserveAspectRatio="none"
        height="67.605637"
        width="119.8125"
-       transform="matrix(1.0768875,0,0,0.74247072,103.35834,745.09388)"
+       transform="matrix(-1.0768875,0,0,0.74247072,105.84186,616.96599)"
        style="display:inline;opacity:1" />
     <image
        sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
        xlink:href="textures\tongue01.jpg"
        style="display:inline;opacity:1"
-       transform="matrix(-1.0768875,0,0,0.74247072,103.44307,745.09388)"
+       transform="matrix(1.0768875,0,0,0.74247072,105.75713,616.96599)"
        width="119.8125"
        height="67.605637"
        preserveAspectRatio="none"
-       id="image4881"
+       id="image4635"
        clip-path="url(#clipPath4717)" />
+    <image
+       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
+       xlink:href="textures\tongue01.jpg"
+       style="display:inline;opacity:1"
+       transform="matrix(1.0768875,0,0,-0.72399662,76.41517,710.48643)"
+       width="119.8125"
+       height="67.605637"
+       preserveAspectRatio="none"
+       id="image4865"
+       clip-path="url(#clipPath4597)" />
+    <image
+       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
+       xlink:href="textures\tongue01.jpg"
+       clip-path="url(#clipPath4585)"
+       id="image4867"
+       preserveAspectRatio="none"
+       height="67.605637"
+       width="119.8125"
+       transform="matrix(-1.0768875,0,0,-0.72399662,76.4999,710.48643)"
+       style="display:inline;opacity:1" />
+    <image
+       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
+       xlink:href="textures\tongue01.jpg"
+       clip-path="url(#clipPath4593)"
+       id="image4869"
+       preserveAspectRatio="none"
+       height="67.605637"
+       width="119.8125"
+       transform="matrix(1.0768875,0,0,0.72399662,76.41517,710.35356)"
+       style="display:inline;opacity:1" />
+    <image
+       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
+       xlink:href="textures\tongue01.jpg"
+       style="display:inline;opacity:1"
+       transform="matrix(-1.0768875,0,0,0.72399662,76.4999,710.35356)"
+       width="119.8125"
+       height="67.605637"
+       preserveAspectRatio="none"
+       id="image4871"
+       clip-path="url(#clipPath4589)" />
+    <image
+       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
+       xlink:href="textures\tongue01.jpg"
+       clip-path="url(#clipPath4709)"
+       id="image4877"
+       preserveAspectRatio="none"
+       height="67.605637"
+       width="119.8125"
+       transform="matrix(1.0768875,0,0,-0.74247072,103.35834,745.23013)"
+       style="display:inline;opacity:1" />
+    <image
+       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
+       xlink:href="textures\tongue01.jpg"
+       style="display:inline;opacity:1"
+       transform="matrix(1.0768875,0,0,0.74247072,103.35834,745.09388)"
+       width="119.8125"
+       height="67.605637"
+       preserveAspectRatio="none"
+       id="image4879"
+       clip-path="url(#clipPath4713)" />
+    <image
+       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
+       xlink:href="textures\tongue01.jpg"
+       clip-path="url(#clipPath4717)"
+       id="image4881"
+       preserveAspectRatio="none"
+       height="67.605637"
+       width="119.8125"
+       transform="matrix(-1.0768875,0,0,0.74247072,103.44307,745.09388)"
+       style="display:inline;opacity:1" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5761"
@@ -1138,105 +1137,105 @@
         <image
            sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
            xlink:href="textures\skin04.jpg"
-           style="display:inline;opacity:0.6"
-           id="image9213"
-           preserveAspectRatio="none"
-           height="390"
-           width="390"
+           clip-path="url(#clipPath4436)"
            transform="matrix(0.17507996,0,0,0.11723222,209.41155,508.11302)"
-           clip-path="url(#clipPath4436)" />
-        <image
-           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-           xlink:href="textures\skin04.jpg"
-           clip-path="url(#clipPath4440)"
-           transform="matrix(0.16262219,0,0,0.11723222,277.69192,508.11302)"
            width="390"
            height="390"
            preserveAspectRatio="none"
+           id="image9213"
+           style="display:inline;opacity:0.6" />
+        <image
+           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+           xlink:href="textures\skin04.jpg"
+           style="display:inline;opacity:0.6"
            id="image9215"
-           style="display:inline;opacity:0.6" />
-        <image
-           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-           xlink:href="textures\skin04.jpg"
-           style="display:inline;opacity:0.6"
-           id="image4382"
            preserveAspectRatio="none"
            height="390"
            width="390"
+           transform="matrix(0.16262219,0,0,0.11723222,277.69192,508.11302)"
+           clip-path="url(#clipPath4440)" />
+        <image
+           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+           xlink:href="textures\skin04.jpg"
+           clip-path="url(#clipPath4444)"
            transform="matrix(0.16262219,0,0,0.11723222,341.11457,508.11302)"
-           clip-path="url(#clipPath4444)" />
-        <image
-           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-           xlink:href="textures\skin04.jpg"
-           clip-path="url(#clipPath4432)"
-           transform="matrix(0.16789676,0.0847761,-0.06221666,0.10257231,219.29656,519.36774)"
            width="390"
            height="390"
            preserveAspectRatio="none"
-           id="image4384"
+           id="image4382"
            style="display:inline;opacity:0.6" />
         <image
            sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
            xlink:href="textures\skin04.jpg"
            style="display:inline;opacity:0.6"
-           id="image4386"
+           id="image4384"
            preserveAspectRatio="none"
            height="390"
            width="390"
-           transform="matrix(0.15595011,0.07874388,-0.06221666,0.10257231,284.77551,552.43002)"
-           clip-path="url(#clipPath4402)" />
+           transform="matrix(0.16789676,0.0847761,-0.06221666,0.10257231,219.29656,519.36774)"
+           clip-path="url(#clipPath4432)" />
         <image
            sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
            xlink:href="textures\skin04.jpg"
-           clip-path="url(#clipPath4398)"
-           transform="matrix(0.15595011,0.07874388,-0.06221666,0.10257231,345.59604,583.14013)"
+           clip-path="url(#clipPath4402)"
+           transform="matrix(0.15595011,0.07874388,-0.06221666,0.10257231,284.77551,552.43002)"
            width="390"
            height="390"
            preserveAspectRatio="none"
-           id="image4388"
+           id="image4386"
            style="display:inline;opacity:0.6" />
+        <image
+           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+           xlink:href="textures\skin04.jpg"
+           style="display:inline;opacity:0.6"
+           id="image4388"
+           preserveAspectRatio="none"
+           height="390"
+           width="390"
+           transform="matrix(0.15595011,0.07874388,-0.06221666,0.10257231,345.59604,583.14013)"
+           clip-path="url(#clipPath4398)" />
       </g>
     </g>
     <image
        sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
        xlink:href="textures\tongue01.jpg"
-       style="display:inline;opacity:1"
-       transform="matrix(-1.0768875,0,0,-0.72399662,132.78503,582.35854)"
-       width="119.8125"
-       height="67.605637"
-       preserveAspectRatio="none"
+       clip-path="url(#clipPath4597)"
        id="image9205"
-       clip-path="url(#clipPath4597)" />
-    <image
-       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
-       xlink:href="textures\tongue01.jpg"
-       clip-path="url(#clipPath4585)"
-       id="image4565"
        preserveAspectRatio="none"
        height="67.605637"
        width="119.8125"
-       transform="matrix(1.0768875,0,0,-0.72399662,132.7003,582.35854)"
-       style="display:inline;opacity:1" />
-    <image
-       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
-       xlink:href="textures\tongue01.jpg"
-       clip-path="url(#clipPath4593)"
-       id="image4567"
-       preserveAspectRatio="none"
-       height="67.605637"
-       width="119.8125"
-       transform="matrix(-1.0768875,0,0,0.72399662,132.78503,582.22567)"
+       transform="matrix(-1.0768875,0,0,-0.72399662,132.78503,582.35854)"
        style="display:inline;opacity:1" />
     <image
        sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
        xlink:href="textures\tongue01.jpg"
        style="display:inline;opacity:1"
-       transform="matrix(1.0768875,0,0,0.72399662,132.7003,582.22567)"
+       transform="matrix(1.0768875,0,0,-0.72399662,132.7003,582.35854)"
        width="119.8125"
        height="67.605637"
        preserveAspectRatio="none"
+       id="image4565"
+       clip-path="url(#clipPath4585)" />
+    <image
+       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
+       xlink:href="textures\tongue01.jpg"
+       style="display:inline;opacity:1"
+       transform="matrix(-1.0768875,0,0,0.72399662,132.78503,582.22567)"
+       width="119.8125"
+       height="67.605637"
+       preserveAspectRatio="none"
+       id="image4567"
+       clip-path="url(#clipPath4593)" />
+    <image
+       sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\tongue01.jpg"
+       xlink:href="textures\tongue01.jpg"
+       clip-path="url(#clipPath4589)"
        id="image4569"
-       clip-path="url(#clipPath4589)" />
+       preserveAspectRatio="none"
+       height="67.605637"
+       width="119.8125"
+       transform="matrix(1.0768875,0,0,0.72399662,132.7003,582.22567)"
+       style="display:inline;opacity:1" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.75;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4685);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19764857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 17.947266,157.74805 c 0,0 55.855728,47.86141 77.96289,76.90625 11.346764,14.9074 21.365384,31.33696 27.382814,49.07617 6.11776,18.03472 8.76973,37.49483 8.26172,56.53125 -0.46015,17.24102 -4.21388,34.55066 -10.20117,50.72656 -5.72461,15.46618 -11.81354,32.24927 -24.177739,43.16797 -19.70253,17.39941 -73.046875,29.74023 -73.046875,29.74023 l 117.187504,27.74219 125.45117,7.06055 86.17578,-2.7793 83.38086,2.47656 L 565.89844,446.85547 464.61328,401.21484 342.63672,340.07812 229.46094,277.29492 110.93555,205.64844 Z"
@@ -1250,63 +1249,63 @@
       <image
          sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
          xlink:href="textures\skin04.jpg"
-         style="display:inline;opacity:0.6"
-         id="image4615"
-         preserveAspectRatio="none"
-         height="390"
-         width="390"
+         clip-path="url(#clipPath4789)"
          transform="matrix(-0.17507996,0,0,-0.11723222,174.3906,415.11862)"
-         clip-path="url(#clipPath4789)" />
-      <image
-         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-         xlink:href="textures\skin04.jpg"
-         clip-path="url(#clipPath4785)"
-         transform="matrix(-0.16262219,0,0,-0.11723222,106.11023,415.11862)"
          width="390"
          height="390"
          preserveAspectRatio="none"
+         id="image4615"
+         style="display:inline;opacity:0.6" />
+      <image
+         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+         xlink:href="textures\skin04.jpg"
+         style="display:inline;opacity:0.6"
          id="image4617"
-         style="display:inline;opacity:0.6" />
-      <image
-         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-         xlink:href="textures\skin04.jpg"
-         style="display:inline;opacity:0.6"
-         id="image4619"
          preserveAspectRatio="none"
          height="390"
          width="390"
+         transform="matrix(-0.16262219,0,0,-0.11723222,106.11023,415.11862)"
+         clip-path="url(#clipPath4785)" />
+      <image
+         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+         xlink:href="textures\skin04.jpg"
+         clip-path="url(#clipPath4781)"
          transform="matrix(-0.16262219,0,0,-0.11723222,42.687577,415.11862)"
-         clip-path="url(#clipPath4781)" />
-      <image
-         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-         xlink:href="textures\skin04.jpg"
-         clip-path="url(#clipPath4793)"
-         transform="matrix(-0.16789676,-0.0847761,0.06221666,-0.10257231,164.50559,403.8639)"
          width="390"
          height="390"
          preserveAspectRatio="none"
-         id="image4621"
+         id="image4619"
          style="display:inline;opacity:0.6" />
       <image
          sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
          xlink:href="textures\skin04.jpg"
          style="display:inline;opacity:0.6"
-         id="image4623"
+         id="image4621"
          preserveAspectRatio="none"
          height="390"
          width="390"
-         transform="matrix(-0.15595011,-0.07874388,0.06221666,-0.10257231,99.026637,370.80162)"
-         clip-path="url(#clipPath4797)" />
+         transform="matrix(-0.16789676,-0.0847761,0.06221666,-0.10257231,164.50559,403.8639)"
+         clip-path="url(#clipPath4793)" />
       <image
          sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
          xlink:href="textures\skin04.jpg"
-         clip-path="url(#clipPath4801)"
-         transform="matrix(-0.15595011,-0.07874388,0.06221666,-0.10257231,38.206107,340.09151)"
+         clip-path="url(#clipPath4797)"
+         transform="matrix(-0.15595011,-0.07874388,0.06221666,-0.10257231,99.026637,370.80162)"
          width="390"
          height="390"
          preserveAspectRatio="none"
-         id="image4625"
+         id="image4623"
          style="display:inline;opacity:0.6" />
+      <image
+         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+         xlink:href="textures\skin04.jpg"
+         style="display:inline;opacity:0.6"
+         id="image4625"
+         preserveAspectRatio="none"
+         height="390"
+         width="390"
+         transform="matrix(-0.15595011,-0.07874388,0.06221666,-0.10257231,38.206107,340.09151)"
+         clip-path="url(#clipPath4801)" />
     </g>
     <path
        inkscape:connector-curvature="0"
@@ -1335,63 +1334,63 @@
         <image
            sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
            xlink:href="textures\skin04.jpg"
-           clip-path="url(#clipPath4436)"
-           transform="matrix(0.17507996,0,0,0.11723222,209.41155,508.11302)"
-           width="390"
-           height="390"
-           preserveAspectRatio="none"
+           style="display:inline;opacity:0.6"
            id="image4851"
-           style="display:inline;opacity:0.6" />
-        <image
-           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-           xlink:href="textures\skin04.jpg"
-           style="display:inline;opacity:0.6"
-           id="image4853"
            preserveAspectRatio="none"
            height="390"
            width="390"
+           transform="matrix(0.17507996,0,0,0.11723222,209.41155,508.11302)"
+           clip-path="url(#clipPath4436)" />
+        <image
+           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+           xlink:href="textures\skin04.jpg"
+           clip-path="url(#clipPath4440)"
            transform="matrix(0.16262219,0,0,0.11723222,277.69192,508.11302)"
-           clip-path="url(#clipPath4440)" />
-        <image
-           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-           xlink:href="textures\skin04.jpg"
-           clip-path="url(#clipPath4444)"
-           transform="matrix(0.16262219,0,0,0.11723222,341.11457,508.11302)"
            width="390"
            height="390"
            preserveAspectRatio="none"
+           id="image4853"
+           style="display:inline;opacity:0.6" />
+        <image
+           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+           xlink:href="textures\skin04.jpg"
+           style="display:inline;opacity:0.6"
            id="image4855"
-           style="display:inline;opacity:0.6" />
-        <image
-           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-           xlink:href="textures\skin04.jpg"
-           style="display:inline;opacity:0.6"
-           id="image4857"
            preserveAspectRatio="none"
            height="390"
            width="390"
+           transform="matrix(0.16262219,0,0,0.11723222,341.11457,508.11302)"
+           clip-path="url(#clipPath4444)" />
+        <image
+           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+           xlink:href="textures\skin04.jpg"
+           clip-path="url(#clipPath4432)"
            transform="matrix(0.16789676,0.0847761,-0.06221666,0.10257231,219.29656,519.36774)"
-           clip-path="url(#clipPath4432)" />
-        <image
-           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-           xlink:href="textures\skin04.jpg"
-           clip-path="url(#clipPath4402)"
-           transform="matrix(0.15595011,0.07874388,-0.06221666,0.10257231,284.77551,552.43002)"
            width="390"
            height="390"
            preserveAspectRatio="none"
-           id="image4859"
+           id="image4857"
            style="display:inline;opacity:0.6" />
         <image
            sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
            xlink:href="textures\skin04.jpg"
            style="display:inline;opacity:0.6"
-           id="image4861"
+           id="image4859"
            preserveAspectRatio="none"
            height="390"
            width="390"
+           transform="matrix(0.15595011,0.07874388,-0.06221666,0.10257231,284.77551,552.43002)"
+           clip-path="url(#clipPath4402)" />
+        <image
+           sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+           xlink:href="textures\skin04.jpg"
+           clip-path="url(#clipPath4398)"
            transform="matrix(0.15595011,0.07874388,-0.06221666,0.10257231,345.59604,583.14013)"
-           clip-path="url(#clipPath4398)" />
+           width="390"
+           height="390"
+           preserveAspectRatio="none"
+           id="image4861"
+           style="display:inline;opacity:0.6" />
       </g>
     </g>
     <path
@@ -1407,63 +1406,63 @@
       <image
          sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
          xlink:href="textures\skin04.jpg"
-         clip-path="url(#clipPath4789)"
-         transform="matrix(-0.17507996,0,0,-0.11723222,174.3906,415.11862)"
-         width="390"
-         height="390"
-         preserveAspectRatio="none"
+         style="display:inline;opacity:0.6"
          id="image4885"
-         style="display:inline;opacity:0.6" />
-      <image
-         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-         xlink:href="textures\skin04.jpg"
-         style="display:inline;opacity:0.6"
-         id="image4887"
          preserveAspectRatio="none"
          height="390"
          width="390"
+         transform="matrix(-0.17507996,0,0,-0.11723222,174.3906,415.11862)"
+         clip-path="url(#clipPath4789)" />
+      <image
+         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+         xlink:href="textures\skin04.jpg"
+         clip-path="url(#clipPath4785)"
          transform="matrix(-0.16262219,0,0,-0.11723222,106.11023,415.11862)"
-         clip-path="url(#clipPath4785)" />
-      <image
-         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-         xlink:href="textures\skin04.jpg"
-         clip-path="url(#clipPath4781)"
-         transform="matrix(-0.16262219,0,0,-0.11723222,42.687577,415.11862)"
          width="390"
          height="390"
          preserveAspectRatio="none"
+         id="image4887"
+         style="display:inline;opacity:0.6" />
+      <image
+         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+         xlink:href="textures\skin04.jpg"
+         style="display:inline;opacity:0.6"
          id="image4889"
-         style="display:inline;opacity:0.6" />
-      <image
-         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-         xlink:href="textures\skin04.jpg"
-         style="display:inline;opacity:0.6"
-         id="image4891"
          preserveAspectRatio="none"
          height="390"
          width="390"
+         transform="matrix(-0.16262219,0,0,-0.11723222,42.687577,415.11862)"
+         clip-path="url(#clipPath4781)" />
+      <image
+         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+         xlink:href="textures\skin04.jpg"
+         clip-path="url(#clipPath4793)"
          transform="matrix(-0.16789676,-0.0847761,0.06221666,-0.10257231,164.50559,403.8639)"
-         clip-path="url(#clipPath4793)" />
-      <image
-         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
-         xlink:href="textures\skin04.jpg"
-         clip-path="url(#clipPath4797)"
-         transform="matrix(-0.15595011,-0.07874388,0.06221666,-0.10257231,99.026637,370.80162)"
          width="390"
          height="390"
          preserveAspectRatio="none"
-         id="image4893"
+         id="image4891"
          style="display:inline;opacity:0.6" />
       <image
          sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
          xlink:href="textures\skin04.jpg"
          style="display:inline;opacity:0.6"
-         id="image4895"
+         id="image4893"
          preserveAspectRatio="none"
          height="390"
          width="390"
+         transform="matrix(-0.15595011,-0.07874388,0.06221666,-0.10257231,99.026637,370.80162)"
+         clip-path="url(#clipPath4797)" />
+      <image
+         sodipodi:absref="C:\Users\cadias\Documents\papercraft\drogon\textures\skin04.jpg"
+         xlink:href="textures\skin04.jpg"
+         clip-path="url(#clipPath4801)"
          transform="matrix(-0.15595011,-0.07874388,0.06221666,-0.10257231,38.206107,340.09151)"
-         clip-path="url(#clipPath4801)" />
+         width="390"
+         height="390"
+         preserveAspectRatio="none"
+         id="image4895"
+         style="display:inline;opacity:0.6" />
     </g>
     <path
        sodipodi:nodetypes="cccccccccccccsssc"
@@ -1477,8 +1476,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="guidelines"
-     transform="translate(0,-527.00871)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-527.00871)">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffff00;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.70866144;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 104.67057,948.38382 -0.0383,109.26428"
@@ -1539,8 +1537,7 @@
      id="Lines"
      inkscape:label="fold"
      transform="translate(-1323.7679,-3868.9257)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g5881"
        transform="matrix(90.379529,0,0,-90.379535,1109.5009,3428.4561)"
@@ -1851,8 +1848,7 @@
      id="layer1"
      inkscape:label="cut"
      style="display:inline"
-     transform="translate(0,-527.00871)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-527.00871)">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path603"
@@ -1881,7 +1877,7 @@
        d="m 17.947266,157.74805 c 0,0 55.855728,47.86141 77.96289,76.90625 11.346764,14.9074 21.365384,31.33696 27.382814,49.07617 6.11776,18.03472 8.76973,37.49483 8.26172,56.53125 -0.46015,17.24102 -4.21388,34.55066 -10.20117,50.72656 -5.72461,15.46618 -11.81354,32.24927 -24.177739,43.16797 -19.70253,17.39941 -73.046875,29.74023 -73.046875,29.74023 l 108.425784,37.02735 8.76172,-9.28516 5.88476,11.6543 112.08399,6.82226 7.48242,-11.41601 7.09765,11.42187 72.93946,-2.73632 6.13867,-11.46485 6.10547,11.33594 70.94726,1.38086 6.32813,-10.24024 9.4414,7.45313 118.39844,-47.11328 1.73438,-11.88086 -1.06836,-10.64063 -89.91016,-42.41015 -10.30664,7.41015 -0.75195,-12.76953 -111.08789,-55.03906 -10.13672,6.67187 -0.20508,-12.11914 -102.45117,-56.97265 -10.51953,6.30859 0.24804,-12.19922 -109.12109,-64.75976 -9.65234,5.3125 -0.52539,-11.01367 z"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.70866132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.70866138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:0.19999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter-blend-mode:normal;filter-gaussianBlur-deviation:0"
        d="m 5.0438292,664.47804 39.0067518,6.19456 1.124477,3.98143 2.451256,-3.3321 37.72297,4.71565 1.414419,3.22461 1.703256,-2.98593 24.278281,0.14056 1.57647,2.69544 1.36095,-2.80624 30.70711,-2.42259 1.88074,2.77206 1.1085,-3.17831 36.22752,-6.69561 2.05218,2.37795 2.14477,-2.28865 7.78151,1.99264 0.0485,0.011 0.85218,2.80954 1.15645,2.87349 -5.08111,6.69892 -3.22295,-0.45806 0.5435,3.29075 -38.17221,30.94413 -2.81892,-1.06054 -0.0987,3.01901 -52.487271,28.34239 -2.823877,-1.75507 -0.78493,3.20586 -30.933102,9.06529 -2.427551,-2.32227 -1.438673,3.02617 -26.111619,1.9717 -1.825626,-2.64694 -2.215884,2.38677 -21.9041969,-7.89175 c 12.4944699,1.87727 25.9770449,-9.13519 31.7037009,-23.3798 2.130103,-5.29842 3.096359,-10.97486 2.719696,-16.69025 -0.195204,-2.96173 -0.91591,-5.93366 -1.672937,-8.86905 C 36.649441,686.15715 20.906635,672.20156 5.0438292,664.47804 Z"
        id="path4941"
        inkscape:connector-curvature="0" />
