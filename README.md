@@ -16,5 +16,5 @@ Papercraft model of Game of Thrones most famous dragon
 - [x] White model build
 - [x] Color model - [Inkscape](https://inkscape.org/en/)
 - [x] Color model build
-- [x] Instructions
-- [x] Publish at [PaperInside](http://www.paperinside.com)
+- [x] [Instructions](../../wiki)
+- [x] Publish at [PaperInside](http://www.paperinside.com/characters/game-of-thrones-drogon/)
