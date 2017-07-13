@@ -1,6 +1,9 @@
 # drogon
 Papercraft model of Game of Thrones most famous dragon
 
+![Final model](/images/drogon-final-01.jpg)
+![Final model](/images/drogon-final-09.jpg)
+![Final model](/images/drogon-final-04.jpg)
 ![Color Build progress](/images/drogon-build-02.jpg)
 ![Color Build progress](/images/drogon-head-02.jpg)
 ![Test Build progress](/images/drogon-testBuild-07.jpg)
@@ -14,4 +17,4 @@ Papercraft model of Game of Thrones most famous dragon
 - [x] Color model - [Inkscape](https://inkscape.org/en/)
 - [x] Color model build
 - [x] Instructions
-- [ ] Publish at [PaperInside](http://www.paperinside.com)
+- [x] Publish at [PaperInside](http://www.paperinside.com)
